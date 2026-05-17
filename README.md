@@ -148,12 +148,17 @@ I build AI systems that work in production — multi-agent architectures, RAG pi
 ### Stats at a Glance
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ibrahim-ziaa&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26d0ce&icon_color=26d0ce"/>
+  <img height="180" src="./profile-summary-card-output/tokyonight/0-profile-details.svg"/>
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Ibrahim-ziaa&theme=tokyonight&hide_border=true&background=0D1117&ring=26d0ce&fire=26d0ce&currStreakLabel=26d0ce"/>
 </div>
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ibrahim-ziaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=26d0ce&langs_count=8"/>
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"/>
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="./profile-summary-card-output/tokyonight/4-productive-time.svg"/>
 </div>
 
 ---
