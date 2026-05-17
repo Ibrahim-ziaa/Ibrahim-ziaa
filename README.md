@@ -38,8 +38,8 @@ class IbrahimZia:
         self.roles        = ["Data Scientist", "AI Engineer", "ML Engineer", "Software Engineer"]
         self.focus        = ["LLM agents", "RAG pipelines", "MLOps", "explainable AI"]
         self.currently    = "Director of ML & DS @ Team Nebula AI"
-        self.studying     = "Data Science @ FAST-NU Lahore"
-        self.hobbies      = ["cricket", "chess", "reading", "gaming"]
+        self.education    = "B.S. Data Science, FAST-NU Lahore (graduated)"
+        self.hobbies      = ["cricket", "chess", "golf", "reading", "gaming"]
         self.ask_me_about = ["AI/ML systems", "data pipelines", "system design"]
 
     def say_hi(self):
@@ -70,7 +70,7 @@ I build AI systems that work in production — multi-agent architectures, RAG pi
 
 - **Director of ML & Data Science** · Team Nebula AI
 - **AI Automation Specialist** · Upwork (Top Rated)
-- **Data Science (current)** · FAST-NU Lahore
+- **B.S. Data Science** · FAST-NU Lahore (graduated)
 
 ---
 
